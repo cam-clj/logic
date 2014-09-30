@@ -7,6 +7,7 @@ This tutorial uses examples from [The Reasoned Schemer](http://mitpress.mit.edu/
 and [Prolog Programming for Artificial Intelligence](http://books.google.co.uk/books/about/Prolog_Programming_for_Artificial_Intell.html?id=-15su78YRj8C). These are both good resources if you want to learn more. The following online resources are also very good:
 
 * [core.logic on Github](https://github.com/clojure/core.logic)
+* [A core.logic Primer](https://github.com/clojure/core.logic/wiki/A-Core.logic-Primer)
 * [David Nolen's core.logic tutorial](https://github.com/swannodette/logic-tutorial)
 * [The Magical Island of Kanren](http://objectcommando.com/blog/2011/11/04/the-magical-island-of-kanren-core-logic-intro-part-1/)
 
