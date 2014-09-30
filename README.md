@@ -17,7 +17,7 @@ If you want to follow along with the examples in the REPL, first [install Leinin
     git clone https://github.com/cam-clj/logic.git
     cd logic
     lein deps
-    lein REPL
+    lein repl
 
 Of course, you can start a REPL from your favourite editor if you
 prefer.
