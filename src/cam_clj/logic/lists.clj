@@ -28,7 +28,7 @@
 (defne concato
   [l1 l2 o]
   ([() l2 l2])
-  ([[x . tail] l2 [x . r]] (concato' tail l2 r)))
+  ([[x . tail] l2 [x . r]] (concato tail l2 r)))
 
 ;; For comparison, here's a Prolog definition of conc:
 ;;
