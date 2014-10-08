@@ -33,6 +33,7 @@ We suggest you work through the examples in the following order:
 * basics.clj
 * family.clj
 * lists.clj
+* fd.clj
 * flight_plan.clj
 * n_queens.clj
 * sudoku.clj
