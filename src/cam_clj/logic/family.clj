@@ -151,7 +151,7 @@
 
 (run-db* facts [q] (ancestero q "Homer"))
 
-(run-db* facts [q] (ancestoro q "Bart"))
+(run-db* facts [q] (ancestero q "Bart"))
 
 ;; We can imagine a world in which our family is not frozen in time:
 

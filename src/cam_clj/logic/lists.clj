@@ -9,7 +9,7 @@
     ((fresh [a d r]
        (conso a d l1)
        (conso a r o)
-       (appendo d l2 r)))))
+       (concato d l2 r)))))
 
 ;; This is a classic recursive solution: we make the problem smaller by splitting
 ;; the list `l1` into its head and tail (`car`, `a`, and `cdr`, `d`, in Scheme-speak),
